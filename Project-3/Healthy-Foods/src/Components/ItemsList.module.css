@@ -1,8 +1,12 @@
-.kg-item {
-  background-color: aquamarine;
+.kgItem {
+  background-color: khaki;
 }
 
-.kg-span {
+.kgSpan {
   font-weight: 500;
-  color:blueviolet;
+  color:orangered;
+}
+
+.button{
+  float: right;
 }
